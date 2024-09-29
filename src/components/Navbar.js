@@ -13,7 +13,6 @@ import {
 } from '@chakra-ui/react';
 import AugustLogo from '../images/august_logo.svg';
 import { HamburgerIcon, CloseIcon } from '@chakra-ui/icons';
-import { StaticImage } from 'gatsby-plugin-image';
 
 const Links = ['How It Works', 'Features', 'Testimonials', 'FAQs'];
 

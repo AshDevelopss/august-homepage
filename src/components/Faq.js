@@ -1,6 +1,6 @@
 // src/components/FAQs.js
 import React from 'react';
-import { Box, Heading, Accordion, AccordionItem, AccordionButton, AccordionPanel, AccordionIcon, Text } from '@chakra-ui/react';
+import { Box, Heading, Accordion, AccordionItem, AccordionButton, AccordionPanel, AccordionIcon } from '@chakra-ui/react';
 
 const faqs = [
   {

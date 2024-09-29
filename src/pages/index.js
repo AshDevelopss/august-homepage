@@ -1,5 +1,5 @@
 import * as React from "react"
-import Layout from '../components/Layout';
+import Layout from '../components/layout';
 import Seo from "../components/seo"
 import HeroSection from "../components/HeroSection";
 import FeaturesSection from "../components/FeatureSection";
